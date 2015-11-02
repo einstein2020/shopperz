@@ -23,6 +23,6 @@ You have 2 choices for installing this template :
 
 ## Screenshots
 
-![Shopperz home](assets/src/screenshots/home.jpg)
+![Shopperz home](assets/screenshots/home.png)
 
-![Shopperz product](assets/src/screenshots/product.jpg)
+![Shopperz product](assets/screenshots/product.png)
